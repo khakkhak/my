@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my/static/css/main.52b5f983.css",
+    "main.js": "/my/static/js/main.802784b7.js",
+    "static/media/khmer.jpg": "/my/static/media/khmer.ae33bef4e3c93d9c2b66.jpg",
+    "index.html": "/my/index.html",
+    "main.52b5f983.css.map": "/my/static/css/main.52b5f983.css.map",
+    "main.802784b7.js.map": "/my/static/js/main.802784b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b5f983.css",
+    "static/js/main.802784b7.js"
+  ]
+}
